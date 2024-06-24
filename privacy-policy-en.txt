@@ -1,0 +1,24 @@
+1. Privacy Protection:
+We highly value your privacy and are committed to implementing reasonable security measures to safeguard your personal data from unauthorized access, usage, or disclosure.
+
+2. Data Sharing:
+We do not sell, exchange, or transfer your personal information to other companies, organizations, or individuals unless we obtain your consent or as required by law.
+
+3. Third-Party Services:
+We may use third-party service providers to support our product and services. These third parties may have access to your personal information but are restricted to assisting us with our services. We will make every effort to ensure these third-party service providers adhere to our privacy standards.
+
+4. Data Storage:
+Your personal data may be stored on our servers or servers of third-party service providers. We will take reasonable measures to ensure the security of your data.
+
+5. Subaccounts and Family Sharing:
+Our product may support subaccounts and family sharing features. When using these features, please exercise caution and only share information with trusted family members.
+
+6. Subscriptions and Unsubscribing:
+If you choose to subscribe to our paid services, you can manage your subscriptions on the App Store or Google Play. You may cancel your subscription at any time, but please note that canceling a subscription may not refund previously paid fees.
+
+7. Privacy Policy Updates:
+We may update our privacy policy from time to time to reflect changes in the product, legal requirements, or other aspects. The updated date will be clearly indicated in the privacy policy.
+
+8. Contact Us:
+If you have any questions or concerns regarding our privacy policy or the processing of your personal data, please reach out to our support team.
+Problem Feedback: https://github.com/EricD2017/CameraPlus/issues/new
