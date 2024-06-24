@@ -1,0 +1,24 @@
+1. Datenschutz:
+Wir legen großen Wert auf Ihre Privatsphäre und verpflichten uns, angemessene Sicherheitsmaßnahmen zu ergreifen, um Ihre persönlichen Daten vor unbefugtem Zugriff, Nutzung oder Offenlegung zu schützen.
+
+2. Datenweitergabe:
+Wir verkaufen, tauschen oder übertragen Ihre persönlichen Informationen nicht an andere Unternehmen, Organisationen oder Einzelpersonen, es sei denn, wir erhalten Ihre Zustimmung oder es ist gesetzlich vorgeschrieben.
+
+3. Dienste von Drittanbietern:
+Wir können Drittanbieter-Dienstleister einsetzen, um unsere Produkte und Dienstleistungen zu unterstützen. Diese Drittanbieter können auf Ihre persönlichen Informationen zugreifen, sind jedoch darauf beschränkt, uns bei unseren Dienstleistungen zu unterstützen. Wir werden unser Bestes tun, um sicherzustellen, dass diese Drittanbieter-Dienstleister unseren Datenschutzstandards entsprechen.
+
+4. Datenspeicherung:
+Ihre persönlichen Daten können auf unseren Servern oder auf den Servern von Drittanbieter-Dienstleistern gespeichert werden. Wir werden angemessene Maßnahmen ergreifen, um die Sicherheit Ihrer Daten zu gewährleisten.
+
+5. Unterkonten und Familienfreigabe:
+Unser Produkt kann Unterkonten und Familienfreigabefunktionen unterstützen. Bitte seien Sie vorsichtig, wenn Sie diese Funktionen nutzen, und teilen Sie Informationen nur mit vertrauenswürdigen Familienmitgliedern.
+
+6. Abonnements und Kündigung:
+Wenn Sie sich für unsere kostenpflichtigen Dienste anmelden, können Sie Ihre Abonnements im App Store oder bei Google Play verwalten. Sie können Ihr Abonnement jederzeit kündigen, beachten Sie jedoch bitte, dass eine Kündigung möglicherweise keine Rückerstattung bereits gezahlter Gebühren beinhaltet.
+
+7. Aktualisierungen der Datenschutzrichtlinie:
+Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren, um Änderungen am Produkt, rechtliche Anforderungen oder andere Aspekte zu berücksichtigen. Das Aktualisierungsdatum wird deutlich in der Datenschutzrichtlinie angegeben.
+
+8. Kontaktieren Sie uns:
+Wenn Sie Fragen oder Bedenken bezüglich unserer Datenschutzrichtlinie oder der Verarbeitung Ihrer persönlichen Daten haben, wenden Sie sich bitte an unser Support-Team.
+Problemrückmeldung: https://github.com/EricD2017/CameraPlus/issues/new
