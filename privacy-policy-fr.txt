@@ -1,0 +1,24 @@
+1. Protection de la vie privée :
+Nous attachons une grande importance à votre vie privée et nous nous engageons à mettre en œuvre des mesures de sécurité raisonnables pour protéger vos données personnelles contre tout accès, utilisation ou divulgation non autorisés.
+
+2. Partage de données :
+Nous ne vendons, n'échangeons ni ne transférons vos informations personnelles à d'autres entreprises, organisations ou individus sans votre consentement, sauf si la loi l'exige.
+
+3. Services tiers :
+Nous pouvons utiliser des prestataires de services tiers pour soutenir nos produits et services. Ces tiers peuvent avoir accès à vos informations personnelles mais sont limités à nous assister dans nos services. Nous ferons tout notre possible pour garantir que ces prestataires de services tiers respectent nos normes de confidentialité.
+
+4. Stockage des données :
+Vos données personnelles peuvent être stockées sur nos serveurs ou sur les serveurs de prestataires de services tiers. Nous prendrons des mesures raisonnables pour assurer la sécurité de vos données.
+
+5. Sous-comptes et partage familial :
+Notre produit peut prendre en charge des sous-comptes et des fonctionnalités de partage familial. Lorsque vous utilisez ces fonctionnalités, veuillez faire preuve de prudence et ne partager des informations qu'avec des membres de la famille de confiance.
+
+6. Abonnements et désabonnement :
+Si vous choisissez de vous abonner à nos services payants, vous pouvez gérer vos abonnements sur l'App Store ou Google Play. Vous pouvez annuler votre abonnement à tout moment, mais veuillez noter que l'annulation d'un abonnement peut ne pas entraîner le remboursement des frais déjà payés.
+
+7. Mises à jour de la politique de confidentialité :
+Nous pouvons mettre à jour notre politique de confidentialité de temps en temps pour refléter les changements apportés au produit, aux exigences légales ou à d'autres aspects. La date de mise à jour sera clairement indiquée dans la politique de confidentialité.
+
+8. Contactez-nous :
+Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité ou le traitement de vos données personnelles, veuillez contacter notre équipe de support.
+Retour de problèmes : https://github.com/EricD2017/CameraPlus/issues/new
